@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-import githubBackgount from '../assets/1587379725719-attachment.svg';
+import githubBackgount from '../assets/img_de_fundo_git.svg';
 export default createGlobalStyle`
 *{
 margin:0;
